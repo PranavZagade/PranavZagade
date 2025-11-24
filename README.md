@@ -1,103 +1,169 @@
-<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00C8FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Pranav+Zagade!+👋;Software+Engineer+%7C+Full+Stack+Developer;React+%7C+Next.js+%7C+Python+%7C+AWS;Welcome+to+my+GitHub+Profile!" />
-</p>
-
----
-
-# 🚀 **About Me**
-
-🎓 Computer Science @ Arizona State University (Magna Cum Laude, GPA: 3.7)  
-💡 Passionate about Machine Learning, Distributed Systems, and Full-Stack Dev  
-⚡ Experienced building production systems, scalable pipelines, and cloud-native apps  
-📍 Portfolio: **https://pranavzagade.com**
-
----
-
-# 🛠️ **Tech Stack**
-
-### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,cs,swift,php" />
-</p>
-
-### **Frameworks & Libraries**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,swiftui,dotnet" />
-</p>
-
-### **Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,firebase,docker,mysql,postgres,git,github,postman,jira" />
-</p>
-
----
-
-# 🧑‍💻 **Experience**
-
-### **Software Engineering Intern — PAQT (Aug 2024 – May 2025)**
-- Built reusable React components with Tailwind (↑ engagement by 25%)
-- Integrated ChatGPT API for automated document generation (↓ effort 50%)
-- Optimized backend APIs boosting uptime & stability
-- Refactored large modules (↓ size by 80%)
-
-### **Data Engineer Assistant — Follett Higher Education (Dec 2022 – Apr 2025)**
-- Built Python + SQL data pipelines improving revenue by 32%
-- Automated workflows detecting top-selling products (↓ losses 30%)
-- Created SQL-driven Power BI dashboards generating $135,000 sales
-- Improved pipeline reliability by restructuring messy SQL
-
-### **Full Stack Developer Intern — World Blazing Pvt. Ltd (Jan 2021 – Aug 2021)**
-- Built 20+ client websites + e-commerce system with 1,000+ products
-- Improved SEO achieving top-10 Google rankings
-- Implemented AES-256 encrypted PHP-MySQL storage
-
----
-
-# 💡 **Projects**
-
-### **Your Next Lease — Next.js, React, Cloudinary**
-- Built scalable server components handling 10,000+ listings  
-- Cloudinary transforms → ↓ image size by 60%  
-- Optimized routing + DNS on Vercel
-
-### **Track My Day — SwiftUI, Firebase**
-- Task management app with 200+ categorized tasks  
-- Real-time weather + location tracking via WeatherKit  
-- Firestore backend supporting 75+ tasks
-
-### **Stock Finder — C#, ASP.NET, SOAP, REST**
-- Real-time stock tracking dashboard  
-- Integrated WSDL, SOAP + REST APIs  
-- CAPTCHA + encrypted passwords (↓ incidents 60%)
-
-### **Lucia AI — Python, SpeechRecognition**
-- Voice assistant with real-time cross-device control  
-- Secure REST APIs for remote command execution  
-- Encrypted PHP-MySQL backend
-
----
-
-# 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavzagade&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavzagade&layout=compact&theme=tokyonight" height="160" />
+  <a href="https://github.com/pranavzagade">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pranav+Zagade+%F0%9F%91%8B;Software+Engineer+who+ships+production+code;Full-stack+%7C+Cloud+%7C+Data+Pipelines" alt="Typing intro" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavzagade&theme=tokyonight" />
+  <a href="https://pranavzagade.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/zagadepranav" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pranavzagade@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-ef4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/pranavzagade?tab=repositories">
+    <img src="https://img.shields.io/badge/Open%20Source-Building-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
+  </a>
 </p>
 
 ---
 
-# 🐍 **Contribution Snake Animation**
+🔗 **Quick nav:** [About](#about) • [Tech Stack](#stack) • [Experience](#experience) • [Projects](#projects) • [GitHub Stats](#stats) • [Contact](#contact)
+
+---
+
+<a id="about"></a>
+## 🧑‍💻 About me
+
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🎓 B.S. in Computer Science, <strong>Arizona State University</strong> — Magna Cum Laude (GPA 3.7).</li>
+        <li>💼 Built production-grade web apps, APIs, and data pipelines across SaaS, retail, and e-commerce.</li>
+        <li>🧠 Strong in algorithms, distributed software development, and end-to-end product thinking.</li>
+        <li>🚀 I like taking messy, ambiguous problems and shipping clean, measurable solutions.</li>
+        <li>🛠️ Comfortable across the stack: React/Next.js & SwiftUI on the front, Node/.NET + SQL on the back.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://magiccopy.xyz/assets/images/hadder.gif" alt="Developer at work" width="300" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<a id="stack"></a>
+## 🧰 Tech stack
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,js,cs,swift,php,react,nextjs,nodejs,dotnet,git,github,aws,firebase,docker,mysql,postgres,postman&perline=10" alt="Tech stack icons" />
+  </a>
+</p>
+
+<p align="center">
+  <sub><strong>Languages:</strong> Java, Python, C++, JavaScript, C#, Swift, PHP · <strong>Frameworks:</strong> React, Next.js, Node.js, .NET · <strong>Tools:</strong> Git/GitHub, AWS, Firebase, Docker, MySQL, PostgreSQL, Postman</sub>
 </p>
 
 ---
 
-# 🌊 **Aesthetic Animated Wave Footer**
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:6A5ACD&height=120&section=footer" />
+<a id="experience"></a>
+## 💼 Experience snapshot
 
+- **Software Engineering Intern — PAQT**  
+  - Built reusable React + Tailwind components, improving responsiveness and lifting engagement by ~25%.  
+  - Integrated OpenAI’s ChatGPT API to automate agreement generation, cutting manual effort by ~50%.  
+  - Refactored oversized modules and debugged backend APIs, reducing code size by >80% and improving uptime.
+
+- **Data Engineer Assistant — Follett Higher Education**  
+  - Designed Python + SQL workflows that optimized inventory allocation and contributed to a 32% sales uplift.  
+  - Automated end-to-end sales data processing, trimming inventory losses by ~30%.  
+  - Built Power BI dashboards over SQL data to guide purchasing decisions and unlock ~$135K in sales.
+
+- **Full-Stack Web Developer Intern — World Blazing Pvt. Ltd**  
+  - Shipped 20+ client sites and an e-commerce platform with 1,000+ products and real-time inventory.  
+  - Tuned SEO to reach top-10 Google rankings within months and grow organic traffic for clients.  
+  - Implemented AES-256-encrypted PHP/MySQL storage and iterated with stakeholders on UX and conversion.
+
+---
+
+<a id="projects"></a>
+## 🚀 Featured projects
+
+- **Your Next Lease — Next.js, React, Cloudinary, Vercel**  
+  - Next.js platform handling 10,000+ property listings with optimized server components and ~35% faster data fetches.  
+  - Cloudinary-powered media pipeline with aggressive image optimization for fast, responsive listing pages.
+
+- **Track My Day — SwiftUI, Firebase Firestore, CoreLocation, WeatherKit**  
+  - iOS task manager that combines tasks with real-time weather and location context.  
+  - Persists 75+ tasks with category-based organization (Personal, Work, School) using Firebase Firestore.
+
+- **Stock Finder — C#, ASP.NET, WCF, SOAP/REST**  
+  - Real-time stock tracking web app deployed on ASU’s web servers.  
+  - Aggregates financial metrics and news via WCF, SOAP, and REST APIs, with encrypted logins and CAPTCHA-backed security.
+
+- **Lucia AI — Python, SpeechRecognition, PHP, MySQL**  
+  - Cross-device voice assistant that triggers system commands through Python’s SpeechRecognition.  
+  - Exposes secure REST APIs and a browser UI to remotely control laptops and PCs over an encrypted PHP/MySQL backend.
+
+➡️ More details live in the pinned repositories and commits below.
+
+---
+
+<a id="stats"></a>
+## 📊 GitHub stats
+
+<!-- Horizontal Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=footer" width="70%" />
+</p>
+
+<!-- Title -->
+<h3 align="center">Professional Snapshot</h3>
+
+<!-- Info Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-3+_Years-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Software_Engineer-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Education-ASU_CS_(BS)%20•%203.7_GPA-0d1117?style=for-the-badge" />
+</p>
+
+<!-- Skill Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,cs,swift,php,react,nextjs,nodejs,aws,docker,git,github,mysql,postgres&theme=dark" />
+</p>
+
+<!-- Engineering Quote -->
+<p align="center">
+  <em>“Good engineering is measured not by complexity — but by clarity, reliability, and impact.”</em>
+</p>
+
+<!-- Bottom Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=footer" width="70%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pranavzagade&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+<a id="contact"></a>
+## 📬 Let’s connect
+
+<p align="center">
+  <a href="mailto:pranavzagade@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pranavzagade%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/zagadepranav" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-zagadepranav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://pranavzagade.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-pranavzagade.com-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/pranavzagade" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-pranavzagade-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Open to strong full-time software engineering roles, impactful side projects, and good technical conversations.</sub>
+</p>
