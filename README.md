@@ -130,7 +130,7 @@
 
 <!-- Engineering Quote -->
 <p align="center">
-  <em>“Good engineering is measured not by complexity — but by clarity, reliability, and impact.”</em>
+  <em>“Good engineering is measured not by complexity - but by clarity, reliability, and impact.”</em>
 </p>
 
 <!-- Bottom Divider -->
