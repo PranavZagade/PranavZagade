@@ -65,15 +65,23 @@
 <a id="experience"></a>
 ## 💼 Experience snapshot
 
+- **Software Engineer — Community Dreams Foundation**  
+  - Designed an agentic support chat system that converts user messages into Jira tickets with ~$92% routing accuracy.  
+  - Architected a RAG-based retrieval layer over internal documentation, increasing first-response accuracy by ~$31%.  
+  - Added automated tests and alerting after silent failures caused repeated ticket creation errors.
+  - Deployed services on AWS with tracing and failure safeguards, maintaining ~$98% system availability.
+  
 - **Software Engineering Intern — PAQT**  
-  - Built reusable React + Tailwind components, improving responsiveness and lifting engagement by ~25%.  
-  - Integrated OpenAI’s ChatGPT API to automate agreement generation, cutting manual effort by ~50%.  
-  - Refactored oversized modules and debugged backend APIs, reducing code size by >80% and improving uptime.
+  - Built reusable React components using Tailwind CSS, enhancing responsiveness and increasing engagement by ~$25%.  
+  - Integrated OpenAI’s LLM to automate agreement generation, reducing effort by ~$50% and improving accuracy.  
+  - Optimized and debugged backend APIs, resolving critical issues to boost system uptime, stability, and performance.
+  - Refactored oversized code modules, reducing their size by over 80% and making the codebase easier to maintain.
 
 - **Data Engineer Assistant — Follett Higher Education**  
-  - Designed Python + SQL workflows that optimized inventory allocation and contributed to a 32% sales uplift.  
-  - Automated end-to-end sales data processing, trimming inventory losses by ~30%.  
-  - Built Power BI dashboards over SQL data to guide purchasing decisions and unlock ~$135K in sales.
+  - Engineered Python ETL pipelines aggregating sales data, reducing report generation time by ~40%.
+  - Automated end-to-end sales data processes to identify top-selling products, reducing inventory losses by ~30%.  
+  - Created interactive Power BI dashboards using SQL data to guide purchasing decisions, influencing ~$135k in sales.
+  - Improved data pipeline reliability by restructuring messy SQL logic and reducing processing failures across workflows.
 
 - **Full-Stack Web Developer Intern — World Blazing Pvt. Ltd**  
   - Shipped 20+ client sites and an e-commerce platform with 1,000+ products and real-time inventory.  
@@ -84,6 +92,10 @@
 
 <a id="projects"></a>
 ## 🚀 Featured projects
+
+- **Lumora — Next.js, FastAPI, DuckDB, Groq**  
+  - Story‑first analytics platform delivering sub‑1s SQL‑accurate insights on 500K+ row datasets via DuckDB and FastAPI.  
+  - Groq‑powered natural‑language → SQL engine with automated insights and zero‑config visualizations, cutting manual analysis time by ~70%.
 
 - **Your Next Lease — Next.js, React, Cloudinary, Vercel**  
   - Next.js platform handling 10,000+ property listings with optimized server components and ~35% faster data fetches.  
