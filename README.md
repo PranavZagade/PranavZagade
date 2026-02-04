@@ -95,7 +95,7 @@
 
 - **Lumora — Next.js, FastAPI, DuckDB, Groq**  
   - Story‑first analytics platform delivering sub‑1s SQL‑accurate insights on 500K+ row datasets via DuckDB and FastAPI.  
-  - Groq‑powered natural‑language → SQL engine with automated insights and zero‑config visualizations, cutting manual analysis time by ~70%.
+  - Groq-powered natural language to SQL engine with auto-insights and visualizations, reducing analysis time by ~70%.
 
 - **Your Next Lease — Next.js, React, Cloudinary, Vercel**  
   - Next.js platform handling 10,000+ property listings with optimized server components and ~35% faster data fetches.  
