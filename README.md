@@ -65,25 +65,25 @@
 <a id="experience"></a>
 ## 💼 Experience snapshot
 
-- **Software Engineer — Community Dreams Foundation**  
+- **Software Engineer - Community Dreams Foundation**  
   - Designed an agentic support chat system that converts user messages into Jira tickets with ~$92% routing accuracy.  
   - Architected a RAG-based retrieval layer over internal documentation, increasing first-response accuracy by ~$31%.  
   - Added automated tests and alerting after silent failures caused repeated ticket creation errors.
   - Deployed services on AWS with tracing and failure safeguards, maintaining ~$98% system availability.
   
-- **Software Engineering Intern — PAQT**  
+- **Software Engineering Intern - PAQT**  
   - Built reusable React components using Tailwind CSS, enhancing responsiveness and increasing engagement by ~$25%.  
   - Integrated OpenAI’s LLM to automate agreement generation, reducing effort by ~$50% and improving accuracy.  
   - Optimized and debugged backend APIs, resolving critical issues to boost system uptime, stability, and performance.
   - Refactored oversized code modules, reducing their size by over 80% and making the codebase easier to maintain.
 
-- **Data Engineer Assistant — Follett Higher Education**  
+- **Data Engineer Assistant - Follett Higher Education**  
   - Engineered Python ETL pipelines aggregating sales data, reducing report generation time by ~40%.
   - Automated end-to-end sales data processes to identify top-selling products, reducing inventory losses by ~30%.  
   - Created interactive Power BI dashboards using SQL data to guide purchasing decisions, influencing ~$135k in sales.
   - Improved data pipeline reliability by restructuring messy SQL logic and reducing processing failures across workflows.
 
-- **Full-Stack Web Developer Intern — World Blazing Pvt. Ltd**  
+- **Full-Stack Web Developer Intern - World Blazing Pvt. Ltd**  
   - Shipped 20+ client sites and an e-commerce platform with 1,000+ products and real-time inventory.  
   - Tuned SEO to reach top-10 Google rankings within months and grow organic traffic for clients.  
   - Implemented AES-256-encrypted PHP/MySQL storage and iterated with stakeholders on UX and conversion.
@@ -93,23 +93,23 @@
 <a id="projects"></a>
 ## 🚀 Featured projects
 
-- **Lumora — Next.js, FastAPI, DuckDB, Groq**  
+- **Lumora - Next.js, FastAPI, DuckDB, Groq**  
   - Story‑first analytics platform delivering sub‑1s SQL‑accurate insights on 500K+ row datasets via DuckDB and FastAPI.  
   - Groq-powered natural language to SQL engine with auto-insights and visualizations, reducing analysis time by ~70%.
 
-- **Your Next Lease — Next.js, React, Cloudinary, Vercel**  
+- **Your Next Lease - Next.js, React, Cloudinary, Vercel**  
   - Next.js platform handling 10,000+ property listings with optimized server components and ~35% faster data fetches.  
   - Cloudinary-powered media pipeline with aggressive image optimization for fast, responsive listing pages.
 
-- **Track My Day — SwiftUI, Firebase Firestore, CoreLocation, WeatherKit**  
+- **Track My Day - SwiftUI, Firebase Firestore, CoreLocation, WeatherKit**  
   - iOS task manager that combines tasks with real-time weather and location context.  
   - Persists 75+ tasks with category-based organization (Personal, Work, School) using Firebase Firestore.
 
-- **Stock Finder — C#, ASP.NET, WCF, SOAP/REST**  
+- **Stock Finder - C#, ASP.NET, WCF, SOAP/REST**  
   - Real-time stock tracking web app deployed on ASU’s web servers.  
   - Aggregates financial metrics and news via WCF, SOAP, and REST APIs, with encrypted logins and CAPTCHA-backed security.
 
-- **Lucia AI — Python, SpeechRecognition, PHP, MySQL**  
+- **Lucia AI - Python, SpeechRecognition, PHP, MySQL**  
   - Cross-device voice assistant that triggers system commands through Python’s SpeechRecognition.  
   - Exposes secure REST APIs and a browser UI to remotely control laptops and PCs over an encrypted PHP/MySQL backend.
 
@@ -162,8 +162,8 @@
 ## 📬 Let’s connect
 
 <p align="center">
-  <a href="mailto:pranavzagade@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pranavzagade%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:pranavazagade@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pranavazagade%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/zagadepranav" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-zagadepranav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
