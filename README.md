@@ -126,7 +126,7 @@
 </p>
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PranavZagade&show_icons=true&theme=radical)
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranavzagade&layout=compact&theme=radical" />
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranavzagade&layout=compact&theme=radical)
 <!-- Title -->
 <h3 align="center">Professional Snapshot</h3>
 
