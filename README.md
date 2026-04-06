@@ -30,7 +30,7 @@
 
 <table>
   <tr>
-    <td width="100%">
+    <td width="60%">
       <ul>
         <li>🎓 B.S. in Computer Science, <strong>Arizona State University</strong> — Magna Cum Laude (GPA 3.7).</li>
         <li>💼 Built production-grade web apps, APIs, and data pipelines across SaaS, retail, and e-commerce.</li>
@@ -40,7 +40,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://magiccopy.xyz/assets/images/hadder.gif" alt="Developer at work" width="300" />
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tzN3Btb2FmcGNqd2huNGFzbThiaXc2MzFjbG9rcGVkeTZ4NmUwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Developer at work" width="300" />
     </td>
   </tr>
 </table>
