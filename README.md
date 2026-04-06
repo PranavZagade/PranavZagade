@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/zagadepranav" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:pranavzagade@gmail.com">
+  <a href="mailto:pranavazagade@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-ef4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/pranavzagade?tab=repositories">
@@ -30,7 +30,7 @@
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="100%">
       <ul>
         <li>🎓 B.S. in Computer Science, <strong>Arizona State University</strong> — Magna Cum Laude (GPA 3.7).</li>
         <li>💼 Built production-grade web apps, APIs, and data pipelines across SaaS, retail, and e-commerce.</li>
