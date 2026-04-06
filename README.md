@@ -147,7 +147,7 @@
   <em>“Good engineering is measured not by complexity - but by clarity, reliability, and impact.”</em>
 </p>
 
-<!-- Bottom Divider -->
+<!-- Bottom Divider 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=footer" width="70%" />
 </p>
@@ -155,7 +155,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pranavzagade&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
-
+-->
 ---
 
 <a id="contact"></a>
