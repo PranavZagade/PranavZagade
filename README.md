@@ -124,7 +124,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=footer" width="70%" />
 </p>
-
+<p align="center">
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavZagade&hide=contribs,prs)
+</p>
 <!-- Title -->
 <h3 align="center">Professional Snapshot</h3>
 
