@@ -125,10 +125,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=footer" width="70%" />
 </p>
 
-<p align="center">
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PranavZagade&show_icons=true&theme=radical)
-</p>
-
 
 <!-- Title -->
 <h3 align="center">Professional Snapshot</h3>
