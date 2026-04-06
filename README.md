@@ -124,9 +124,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=footer" width="70%" />
 </p>
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PranavZagade&show_icons=true&theme=radical)
-![GitHub Stats](https://streak-stats.demolab.com?user=pranavzagade&theme=radical&show_icons=true)
+<p align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PranavZagade&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://streak-stats.demolab.com?user=pranavzagade&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 <!-- Title -->
 <h3 align="center">Professional Snapshot</h3>
 
